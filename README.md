@@ -3,9 +3,9 @@
 A simple real-time chat application built using **React**, **Node.js**, and **WebSockets**.  
 Users can join a chat room, send messages, and receive live updates instantly.
 
----
 
-## 🚀 Features
+
+ #Features
 
 - Real-time messaging using WebSocket
 - Join chat rooms
@@ -14,26 +14,26 @@ Users can join a chat room, send messages, and receive live updates instantly.
 - Auto-scrolling chat window
 - Clean and simple code structure
 
----
 
-## 🛠 Tech Stack
 
-### Frontend
+ #Tech Stack
+
+ #Frontend
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - WebSocket client
 
-### Backend
+ #Backend
 - Node.js
 - WebSocket (ws) library
 
----
 
-## 📦 Installation
 
-### Clone the project:
+# Installation
+
+#Clone the project:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
