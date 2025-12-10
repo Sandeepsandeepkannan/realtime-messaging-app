@@ -1,4 +1,4 @@
-# WebSocket Chat App 💬
+# WebSocket Chat App 
 
 A simple real-time chat application built using **React**, **Node.js**, and **WebSockets**.  
 Users can join a chat room, send messages, and receive live updates instantly.
