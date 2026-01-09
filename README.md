@@ -31,10 +31,45 @@ Users can join a chat room, send messages, and receive live updates instantly.
 
 
 
-# Installation
+📥 Clone the Repository
+git clone https://github.com/Sandeepsandeepkannan/realtime-messaging-app.git
+cd realtime-messaging-app
 
-#Clone the project:
+📦 Install Dependencies
+🔹 Backend Setup
+cd chatappbackend
+npm install
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+🔹 Frontend Setup
+cd chatappfrontend
+npm install
+
+▶️ Run the Application
+Start Backend Server
+cd chatappbackend
+npm start
+
+Start Frontend Server
+cd chatappfrontend
+npm run dev
+
+
+Frontend will run on:
+
+http://localhost:5173
+
+
+Backend WebSocket server will run on:
+
+ws://localhost:8080
+
+✅ Usage
+
+Enter a username and join a chat room
+Start sending messages
+Messages appear instantly for all connected users
+
+📝 Notes
+
+This project is built for learning real-time communication concepts
+No database is used (messages exist only during active sessions)
