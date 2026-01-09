@@ -30,19 +30,4 @@ wss.on("connection", (socket) => {
         }
     });
 });
-//  let usercount=1
-//  let  allsockets=[]
-// wss.on("connection",(socket)=>{
-//         console.log("web socket server connnected ")
-//         console.log("client count is "+usercount)
-//         usercount=usercount+1
-//         allsockets.push(socket)
-//       socket.on("message",(e)=>{
-//         const message=e.toString()
-//         console.log("the message is "+message)
-//         for(let i=0;i<allsockets.length;i++){
-//             allsockets[i]?.send(message)
-//         }
-//       })  
-// })
 //# sourceMappingURL=index.js.map
