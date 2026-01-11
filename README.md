@@ -73,3 +73,14 @@ Messages appear instantly for all connected users
 
 This project is built for learning real-time communication concepts
 No database is used (messages exist only during active sessions)
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/Sandeepsandeepkannan/realtime-messaging-app/blob/main/Screenshot%202026-01-09%20195709.png" />
+ 
+  <img src="https://github.com/Sandeepsandeepkannan/realtime-messaging-app/blob/main/Screenshot%202026-01-11%20211616.png" width="700" />
+  
+  <img src="https://github.com/Sandeepsandeepkannan/realtime-messaging-app/blob/main/Screenshot%202025-12-31%20151429.png" width="700" />
+</p>
